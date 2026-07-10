@@ -1,9 +1,0 @@
-Configuration,Accuracy,F1-Score,Delta Accuracy,Delta F1
-IndoCHA-Fusion (Full),0.873,0.869,0.0,0.0
-w/o Cultural Context Extractor,0.841,0.836,-0.032,-0.033
-w/o Code-Switching Handler,0.832,0.827,-0.041,-0.042
-w/o Morphological Attention,0.848,0.843,-0.025,-0.026
-w/o Audio Encoder,0.851,0.847,-0.022,-0.022
-w/o Visual Encoder,0.855,0.851,-0.018,-0.018
-Text-only (IndoBERT-base),0.782,0.778,-0.091,-0.091
-Auto-inferred cultural features (deploy),0.864,0.861,-0.009,-0.008
