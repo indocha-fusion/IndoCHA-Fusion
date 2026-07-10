@@ -1,0 +1,8 @@
+Model,Accuracy,F1-Score (Macro),Precision,Recall,Code-Switch Accuracy,Implicit Sentiment Accuracy
+IndoBERT-base (Unimodal),0.782,0.778,0.78,0.782,0.741,0.693
+Self-MM (Self-supervised Multi-task),0.798,0.795,0.797,0.798,0.771,0.712
+MMIM (Multimodal InfoMax),0.813,0.81,0.812,0.813,0.786,0.724
+MISA,0.821,0.817,0.819,0.821,0.793,0.731
+LFD-RT [29],0.832,0.828,0.831,0.832,0.804,0.752
+Cendol [30],0.835,0.831,0.834,0.835,0.814,0.769
+IndoCHA-Fusion (Proposed),0.873,0.869,0.871,0.873,0.851,0.812
